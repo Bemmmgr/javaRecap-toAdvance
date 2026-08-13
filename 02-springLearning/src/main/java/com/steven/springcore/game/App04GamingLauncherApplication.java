@@ -1,7 +1,5 @@
-package com.steven.springcore;
+package com.steven.springcore.game;
 
-import com.steven.springcore.game.GameRunner;
-import com.steven.springcore.game.GamingConsole;
 import org.springframework.context.annotation.AnnotationConfigApplicationContext;
 import org.springframework.context.annotation.ComponentScan;
 import org.springframework.context.annotation.Configuration;
