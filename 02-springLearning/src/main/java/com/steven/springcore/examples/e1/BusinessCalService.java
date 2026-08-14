@@ -1,10 +1,10 @@
 package com.steven.springcore.examples.e1;
 
-import org.springframework.stereotype.Component;
+import org.springframework.stereotype.Service;
 
 import java.util.Arrays;
 
-@Component
+@Service
 public class BusinessCalService {
     private DataService dataService;
 
